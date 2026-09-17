@@ -1,0 +1,14 @@
+[book]
+title = "Tokio By Example"
+authors = ["Afjal"]
+language = "en"
+src = "src"
+
+[output.html]
+
+[output.html.playground]
+editable = true
+copyable = true
+
+[rust]
+edition = "2024"
